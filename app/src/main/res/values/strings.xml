@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geofences</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="mainList">
+        <item>Start Geofences Now</item>
+        <item>Set Message Receivers</item>
+        <item>Set Distance Limit</item>
+        <item>Stop Geofences</item>
+    </string-array>
+
+    <string name="title_activity_smsreceivers">SMSReceivers</string>
+    <string name="title_activity_add_recevier">AddRecevier</string>
+
+</resources>

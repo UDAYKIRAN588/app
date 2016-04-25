@@ -1,0 +1,605 @@
+[
+    {
+        "outputFile": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Desktop\\app\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Desktop\\app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endLine": 12,
+                        "endColumn": 19,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 57,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Desktop\\app\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 55,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Desktop\\app\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 52,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Desktop\\app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 52,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 46,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Desktop\\app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 484,
+                    "endColumn": 52,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Desktop\\app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endColumn": 67,
+                    "endOffset": 600
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Desktop\\app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 67,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 605,
+                    "endColumn": 68,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Desktop\\app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 68,
+                        "endOffset": 504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 959
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Desktop\\app\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 964,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Desktop\\app\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 678
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endLine": 12,
+                        "endColumn": 19,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 57,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 55,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 52,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 52,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 46,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 484,
+                    "endColumn": 52,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endColumn": 67,
+                    "endOffset": 600
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 67,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 605,
+                    "endColumn": 68,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 68,
+                        "endOffset": 504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 959
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 964,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 678
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Downloads\\awn project1\\app\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Downloads\\awn project1\\app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endLine": 12,
+                        "endColumn": 19,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 57,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Downloads\\awn project1\\app\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 55,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Downloads\\awn project1\\app\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 52,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Downloads\\awn project1\\app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 52,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 46,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Downloads\\awn project1\\app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 484,
+                    "endColumn": 52,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Downloads\\awn project1\\app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endColumn": 67,
+                    "endOffset": 600
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Downloads\\awn project1\\app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 67,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 605,
+                    "endColumn": 68,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Downloads\\awn project1\\app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 68,
+                        "endOffset": 504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 959
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Downloads\\awn project1\\app\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 964,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "/Users/dlrl/Desktop/job/manisha malae- U00802990/code/app/C:\\Users\\jayanth\\Downloads\\awn project1\\app\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 678
+                    }
+                }
+            }
+        ]
+    }
+]
